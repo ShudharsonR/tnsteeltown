@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f155dbed
 license: GPL-2.0
+name: tnsteeltown
 type: industry
+url: https://github.com/ShudharsonR/tnsteeltown
 version: 6
